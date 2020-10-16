@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Me - Leanne Stranks</title>
+    <link href="https://fonts.googleapis.com/css2?family=Architects+Daughter&display=swap" rel="stylesheet">
+    <link rel="stylesheet" integrity="sha256-ToqZ7jbyPtfc9LOElHFhIXvTz6ciSdICSjwL2bda/q4=" href="contactpage.css">
+    <link rel="stylesheet" integrity="sha256-TWyOSG3rWUn3pAls33/hSxziYKEbBWVCaNItaMy3mJo=" href="defaults.css">
+</head>
+<body>
+    <!--Navbar standard across all web pages - styling on defaults.css-->    
+    <nav>
+        <a class="navbar" href="index.html">Home</a>
+        <a class="navbar" href="blog.html">Blog</a>
+        <a class="navbar" href="portfolio.html">Portfolio</a>
+        <a class="navbar" href="resume.html">Resume</a>
+        <a class="navbar" href="contactpage.html">Contact</a>
+    </nav>
+    <!--Icons from https://www.vectorlogo.zone/logos/github/index.html/ -->    
+    <section id="socialmedia">
+        <a href="https://twitter.com/Leanne69390528" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="Twitter"/></a>
+        <a href="https://www.linkedin.com/in/leanne-stranks-18778a164" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" alt="LinkedIn"/></a>
+        <a href="https://github.com/Leanne2603" target="_blank"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" alt="GitHub"/></a>
+    </section>
+    <section>
+        <h1>
+            Contact Me
+        </h1>
+        <!--Completed form details emailed and stored in Usebasin-->
+        <form action="https://usebasin.com/f/e6b4e5606834" method="post">
+        <h4>
+            Send me a message below:
+        </h4><br>
+        <!--Contact form details to allow viewer to easily contact me-->
+            <label for="fullname">Full Name:</label>
+                <input type="text" id="fullname" name="fullname" required/>
+                <label for="email">Email Address:</label>
+                <input type="email" id="email" name="email" required/>
+                <label for="phnumber">Contact Number (optional):</label>
+                <input type="tel" id="phnumber" name="phnumber"/>
+                <label for="message">Message:</label>
+                <textarea id="message" name="message" placeholder="Write message here..." required></textarea>
+                <input type="submit" value="Submit">
+            </form>
+    </section>
+</body>
+    <!--Footer consistent across all pages - styling on defaults.css-->
+<footer>
+    &#169; Leanne Stranks
+</footer>
+</html>

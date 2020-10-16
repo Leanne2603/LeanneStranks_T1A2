@@ -1,0 +1,41 @@
+body {
+    height: 100vh;
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 85px 150px auto 20px;
+    grid-template-areas: 
+    "header"
+    "title"
+    "portfolio"
+    "footer";
+}
+img {
+    border-radius: 30%;
+    transition: 3s;
+    max-width: 250px;
+    max-height: auto;
+}
+h1 {
+    grid-area: title;
+    display: block;
+    justify-content: center;
+    margin-top: 50px;
+}
+/* inline block used to create responsive design so images will move onto next line depending on screen size*/
+article {
+    grid-area: portfolio;
+    display: inline-block;
+    margin: 15px;
+}
+h5 {
+    text-align: center;
+}
+h1 {
+    text-align: center;
+}
+img:hover {
+    transform: scale(1.2, 1.2);
+}
+p {
+    text-align: center;
+}

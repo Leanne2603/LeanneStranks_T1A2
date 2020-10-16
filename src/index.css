@@ -1,0 +1,70 @@
+body {
+    display: grid;
+    grid-template-columns: 100%;
+    grid-template-rows: 85px 70px 250px auto 20px;
+    grid-template-areas:
+    "header"
+    "title"
+    "portrait"
+    "aboutme"
+    "footer";
+}
+#home {
+    width: 40%;
+    height: auto;
+    padding: 15px;
+    height: auto;
+    display: block;
+    margin: auto;
+    border-radius: 50%;
+}
+@media screen and (max-width: 600px){
+    #home {
+        width: 80%;
+        height: auto;
+    }
+}
+/* Includes my name and title */
+#maintitle {
+    grid-area: title;
+    margin: auto;
+    display: block;
+    text-align: center;
+    padding: 10px;
+    animation-name: intro;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+#aboutme {
+    grid-area: aboutme;
+}
+/* Margin to ensure bullet points appear on page of unordered list */
+li {
+    margin-left: 20px;
+}
+#portrait {
+    grid-area: portrait;
+    padding: 15px;
+    max-width: 100%;
+    height: 100%;
+    border-radius: 50%;
+    display: flex;
+    margin: auto;
+}
+@keyframes intro {
+    from {
+        color: #e90cde;
+    }
+    to {
+        color: #c5115c;
+    }
+}
+h2 {
+    animation-name: intro;
+    animation-duration: 3s;
+    animation-iteration-count: infinite;
+}
+.skillsicon:hover {
+    transform: scale(1.2)
+
+}

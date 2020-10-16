@@ -1,0 +1,234 @@
+commit 35dbbeba69804eb852a53f14fcce1ade6682ac23
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Fri Sep 4 12:23:01 2020 +1000
+
+    Updated navbar css to make more responsive. Updated Integrity details on html
+
+commit 70744eae2a33555fc42da559fd75b7dca5473835
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Fri Sep 4 08:50:11 2020 +1000
+
+    updated margin right/left and width on socialmedia id
+
+commit 7d728c096c19ec4a277983700d327c9c49d3a7ff
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 20:44:50 2020 +1000
+
+    Updated footer to add semi-colon. Removed p element from blog.html. Changed publish date from id to class
+
+commit 34490a3c6346bbc02f9725c1fc6823537f27cf38
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 15:45:44 2020 +1000
+
+    added in published URL
+
+commit 38cda03d4889a246635e0661d67eaae05c3daea8
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 15:30:08 2020 +1000
+
+    Added Subresource Integrity details
+
+commit cd90b6a2ecec3d65e7f4996c82e0da4debbda004
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 14:48:34 2020 +1000
+
+    Completed functionality and features on README.md
+
+commit c1981e66b545c939e51f1bc6d662c2e98a16e86f
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 14:31:18 2020 +1000
+
+    Added target on image link in portfolio.html so links will open in new browser when clicked. Added screenshots for README.md
+
+commit 34b02445e3c4f66dfec540bef5d9a5d008aaafe5
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 14:00:22 2020 +1000
+
+    added comments regarding components used
+
+commit bf5763bede143d62ec9be6dc0cee39ff7dd7e716
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 13:48:00 2020 +1000
+
+    added comments into html and css. Added 'click on an image below to see my work' on portfolio.html
+
+commit 683de8ce808dcd59c8856090d268cdb54f640143
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 12:29:30 2020 +1000
+
+    Rearranged files into appropriate folders - Portfolio-Sitemap, Wireframes and Slideshow
+
+commit 7922167494095c05ccc62330ec2e554beb653222
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 12:28:26 2020 +1000
+
+    Rearranged folder to meet asssessment criteria
+
+commit b777abba1fdbf072184a6ef0e4047bbb79f6232a
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 12:28:00 2020 +1000
+
+    Rearranged folders to meet assessment criteria
+
+commit 9eefbfae47993c444838062570eab630a3af67f2
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 10:16:28 2020 +1000
+
+    Updated animation colours on resume.css. Updated font to 'Architects Daughter' on all pages
+
+commit 03cb1b85f80a7ecd0da868c2846612b29d114a0b
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Sep 3 08:56:53 2020 +1000
+
+    Resized home image on index page.
+
+commit 77dd4789dafd9dae0caaccdd22bf39f54b4974be
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 21:42:37 2020 +1000
+
+    Animated background on resume.html and updated image
+
+commit ba0db97fb4c0b58924c38157227cc23b32faba15
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 21:19:41 2020 +1000
+
+    Add icons onto technical skills section on index.html. Resized submit button and comments area on contact page
+
+commit 70f7481dd868897f5aaae6963ec94c862b7735da
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 20:57:13 2020 +1000
+
+    Updated images in portfolio to replace placeholder for pics 4,5 and 6. Added a resume button on the resume html and styled in css
+
+commit bd114fd09e8f0d00e79628944cdaa1e45229f422
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 20:16:56 2020 +1000
+
+    Added in comments regarding components used within all HTML docs. Uploaded images for portfolio and adjusted sizing to fit
+
+commit 1488efa6279c8f93f47e9b15fe48f44842e2b162
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 19:12:08 2020 +1000
+
+    Updated icons on contact page to use a different source. Added in a min-height under 'section' element to move footer to the bottom of the page
+
+commit 6d6de804121f49b50406a273bd3a95ac0d229e78
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 18:45:22 2020 +1000
+
+    Added background colour to navbar and footer. Changed link colour to white
+
+commit c50d7a83f3da3125cb656747feace632a0607bfa
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 13:00:27 2020 +1000
+
+    Deleted additional README.html files. Created docs folder and moved all images related to README.md into this folder. Added link to ED portfolio, purpose, image links and target audience to README.md file
+
+commit 73a1be4454f308845cad26e102cdaa2195dfe15f
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Wed Sep 2 09:53:37 2020 +1000
+
+    Created README.md document. Added Images into folder to add to Markdown file
+
+commit f97c0044e77f75aa23700c1edfd76b05426b4df3
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 20:29:37 2020 +1000
+
+    Renamed homepage files and added Slideshow PDF
+
+commit 71c7995cd530fb5a104a71c856ef6195c16937b5
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 19:20:19 2020 +1000
+
+    Added comments
+
+commit a7e1ee881995ed1a604efdff716863c6f3c2eff6
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 18:09:50 2020 +1000
+
+    Add images for blog
+
+commit 3a7d56b42f9687a64b64064bb6c8e2b673f69082
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 14:24:56 2020 +1000
+
+    Adjusted image and text alignment in resume css. Added in resume preview in place of image placeholder. Removed margin left 10px from defaults
+
+commit 10421697dd999b88c284b69b00193815f4ffed1d
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 12:57:13 2020 +1000
+
+    Update wireframes for blog. Moved reoccuring components onto defaults css
+
+commit 867a5366bac313069e1bd58c9f1dc85387b2d9a1
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 11:18:39 2020 +1000
+
+    Add heading to blogpage. updated font colour for footer. Defined grid template areas for portfolio page and made article inline block with a flex direction of column
+
+commit 752b6d79762c8db9ebd723dc0a680eed9f2e0cca
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 09:55:10 2020 +1000
+
+    Created a media screen query for #home image on homepage. Added br between paragraphs. Updated footer colour
+
+commit 8547d8ea9089f425d4390b8250b9666dbef8d919
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Tue Sep 1 09:26:44 2020 +1000
+
+    Updated margins for img on blog.css Added in br in paragraphs
+
+commit b54e30b426a6588fcd85c92a1b4959380d7af192
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Mon Aug 31 20:23:59 2020 +1000
+
+    Add photos on homepage. Create id for home photo on homepage and added styling onto css
+
+commit cc165e0c6f950f6b2650c29ee6193d4966750378
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Mon Aug 31 15:36:39 2020 +1000
+
+    Update font family for all pages
+
+commit 8bacc35ba44e1777b770ce4510c621cf674ca2f9
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Mon Aug 31 15:19:36 2020 +1000
+
+    Update style layout on contactpage so form flowed more easy.
+
+commit fe6ceaa327127b90a7cd255598ed8f1b33572e52
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Mon Aug 31 13:19:17 2020 +1000
+
+    Add styling and some formatting to blog portfolio and contact pages Made display as grid
+
+commit 2884523f15bf6eaec78fd2b86b2cd7fb4679fe46
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Sun Aug 30 20:36:04 2020 +1000
+
+    New web pages blog contactpage portfolio
+
+commit 2c799e014910dda2b5a2b76ee57416e00fc258cd
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Sun Aug 30 20:34:55 2020 +1000
+
+    Added blog contactpage and portfolio
+
+commit 818b6ac3e17335f8338887eba4851c7ac99ddf7c
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Sun Aug 30 18:25:48 2020 +1000
+
+    Add blog portfolio and contact page files
+
+commit 910730268a61292e0fd756759705f1e283accc57
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Fri Aug 28 16:36:47 2020 +1000
+
+    homepage.html and resume.html started
+
+commit b5a3a36188e5431f09edcccc19f04cd5255ceeb8
+Author: Leanne <leannestranks86@hotmail.com>
+Date:   Thu Aug 27 17:20:15 2020 +1000
+
+    Initial commit
+    Added Sitemap and Wireframes
